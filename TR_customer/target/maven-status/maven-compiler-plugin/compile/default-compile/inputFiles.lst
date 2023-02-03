@@ -1,0 +1,10 @@
+D:\TRworkspace\TR_customer\src\main\java\com\thingsremembered\aspect\LoggingAspect.java
+D:\TRworkspace\TR_customer\src\main\java\com\thingsremembered\controller\CustomerController.java
+D:\TRworkspace\TR_customer\src\main\java\com\thingsremembered\dto\CustomerData.java
+D:\TRworkspace\TR_customer\src\main\java\com\thingsremembered\ServletInitializer.java
+D:\TRworkspace\TR_customer\src\main\java\com\thingsremembered\services\ICustomerService.java
+D:\TRworkspace\TR_customer\src\main\java\com\thingsremembered\services\CustomerService.java
+D:\TRworkspace\TR_customer\src\main\java\com\thingsremembered\dao\ICustomerRepository.java
+D:\TRworkspace\TR_customer\src\main\java\com\thingsremembered\TRcustomerApplication.java
+D:\TRworkspace\TR_customer\src\main\java\com\thingsremembered\model\Customer.java
+D:\TRworkspace\TR_customer\src\main\java\com\thingsremembered\services\IService.java

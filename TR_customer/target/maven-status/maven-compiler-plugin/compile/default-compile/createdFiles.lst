@@ -1,0 +1,10 @@
+com\thingsremembered\services\IService.class
+com\thingsremembered\model\Customer.class
+com\thingsremembered\ServletInitializer.class
+com\thingsremembered\aspect\LoggingAspect.class
+com\thingsremembered\dao\ICustomerRepository.class
+com\thingsremembered\controller\CustomerController.class
+com\thingsremembered\services\ICustomerService.class
+com\thingsremembered\TRcustomerApplication.class
+com\thingsremembered\services\CustomerService.class
+com\thingsremembered\dto\CustomerData.class
