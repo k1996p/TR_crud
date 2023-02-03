@@ -1,0 +1,10 @@
+com\thingsremembered\services\IService.class
+com\thingsremembered\dto\ProductData.class
+com\thingsremembered\model\Product.class
+com\thingsremembered\ServletInitializer.class
+com\thingsremembered\aspect\LoggingAspect.class
+com\thingsremembered\services\ProductServices.class
+com\thingsremembered\TRproductApplication.class
+com\thingsremembered\controller\ProductController.class
+com\thingsremembered\services\IProductServices.class
+com\thingsremembered\dao\IProductRepository.class

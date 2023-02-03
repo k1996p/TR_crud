@@ -1,0 +1,10 @@
+D:\TRworkspace\TR_product\src\main\java\com\thingsremembered\model\Product.java
+D:\TRworkspace\TR_product\src\main\java\com\thingsremembered\services\IService.java
+D:\TRworkspace\TR_product\src\main\java\com\thingsremembered\ServletInitializer.java
+D:\TRworkspace\TR_product\src\main\java\com\thingsremembered\controller\ProductController.java
+D:\TRworkspace\TR_product\src\main\java\com\thingsremembered\aspect\LoggingAspect.java
+D:\TRworkspace\TR_product\src\main\java\com\thingsremembered\dto\ProductData.java
+D:\TRworkspace\TR_product\src\main\java\com\thingsremembered\services\IProductServices.java
+D:\TRworkspace\TR_product\src\main\java\com\thingsremembered\services\ProductServices.java
+D:\TRworkspace\TR_product\src\main\java\com\thingsremembered\TRproductApplication.java
+D:\TRworkspace\TR_product\src\main\java\com\thingsremembered\dao\IProductRepository.java
