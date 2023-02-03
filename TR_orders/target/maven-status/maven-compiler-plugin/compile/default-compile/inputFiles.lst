@@ -1,0 +1,16 @@
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\controller\ProductController.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\dto\CustomerData.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\services\ProductServices.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\services\ICustomerService.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\model\Product.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\dao\IProductRepository.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\model\Customer.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\controller\CustomerController.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\dao\ICustomerRepository.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\dto\ProductData.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\MyntraappApplication.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\ServletInitializer.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\services\CustomerService.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\services\IProductServices.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\aspect\LoggingAspect.java
+D:\springbootws\myntraapp02\src\main\java\com\ecommerce\myntraapp\services\IService.java
